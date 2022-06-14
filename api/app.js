@@ -23,7 +23,7 @@ app.use(
 		saveUninitialized: true,
 		cookie: {
 			path: "/",
-			expires: 60000,
+			expires: 70000,
 			httpOnly: false
 		}
 	})
